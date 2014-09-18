@@ -20,3 +20,6 @@ You must have Node.js installed and working in your computer (http://nodejs.org/
 
 [Visit Penguin Traders](http://penguintraders.com/) for more examples and for indicators that you can download that uses the MT4 to Node.js extensively.
 
+
+#### License
+This code is released to the public under GNU GENERAL PUBLIC LICENSE
