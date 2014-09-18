@@ -25,5 +25,5 @@ You must have Node.js installed and working in your computer (http://nodejs.org/
 This code is released to the public under GNU GENERAL PUBLIC LICENSE
 
 <p align="center">
-![Penguin Traders Logo](https://raw.githubusercontent.com/PenguinTraders/MT4-Node.js/master/penguin-traders.png)
+<img src="https://raw.githubusercontent.com/PenguinTraders/MT4-Node.js/master/penguin-traders.png" />
 </p>
