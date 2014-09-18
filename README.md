@@ -3,7 +3,7 @@ MT4-Node.js
 
 MT4 Node.js client/server 
 
-[Visit Penguin Traders](http://penguintraders.com/) for support and to get help from the community
+[Visit Penguin Traders](http://penguintraders.com/) to get help from the community
 
 This demonstrates how you can communicate between a Node.js server and a MT4 client application quickly. There are no delays and the connection/calculations are done on the same tick. 
 
