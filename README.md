@@ -23,3 +23,6 @@ You must have Node.js installed and working in your computer (http://nodejs.org/
 
 #### License
 This code is released to the public under GNU GENERAL PUBLIC LICENSE
+
+
+![Penguin Traders Logo](https://raw.githubusercontent.com/PenguinTraders/MT4-Node.js/master/penguin-traders.png)
