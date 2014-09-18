@@ -13,10 +13,11 @@ You must have Node.js installed and working in your computer (http://nodejs.org/
 
 ### Installation
 - Copy the entire directory into your MetaTrader installation folder.
-- Open the command prompt and browse to where you copied the Node folder into (The Node folder can be anywhere) and then enter the command following command to run the server: node server.js 
+- Open the command prompt and browse to where you copied the Node folder into (The Node folder can be anywhere) and then enter the following command to run the server: node server.js 
   For example, if the Node folder is in C:\Node, you can execute the server by entering: node c:\Node\server.js
 - Either compile the "sample_node_indi.mq4" indicator in MetaEditor or restart MT4 for the indicator to show up in MT4 terminal. 
 - Attach the indicator and have fun experimenting.
+- Note: You must have the Node.js server running before you attach the indicator. 
 
 [Visit Penguin Traders](http://penguintraders.com/) for more examples and for indicators that you can download that uses the MT4 to Node.js extensively.
 
