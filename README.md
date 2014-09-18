@@ -22,6 +22,10 @@ You must have Node.js installed and working in your computer (http://nodejs.org/
 [Visit Penguin Traders](http://penguintraders.com/) for more examples and for indicators that you can download that uses the MT4 to Node.js extensively.
 
 
+#### Credits
+- This uses the JSON parser from http://www.mql5.com/en/code/11134 (Already included)
+- A modified version of the http library from http://www.mql5.com/en/articles/276
+
 #### License
 This code is released to the public under GNU GENERAL PUBLIC LICENSE
 
